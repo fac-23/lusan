@@ -30,10 +30,20 @@ We based this on our discussions with the product owner and by deciding which fe
 We have divided our main issues into sprint 1 and sprint 2 - in sprint 1 we'll focus on the first two user stories, searching and filtering seeds.
 
 ### What order are you going to build in?
-How did user research inform your plan?
-Requirement analysis 
-How will you ensure your project is accessible to as many users as possible?
-Are there any legal or regulatory requirements you should consider?
+We are going to focus on building out the front end first - partly because we are unsure as to whether we will have a database or just a js file with dummy data. We will prioritise key issues first, focus on displaying the seeds to start and then filtering them on the page. The wishlist and growing conditions will be made later on in the sprints. 
+
+### How did user research inform your plan?
+User research validated what the most important features are to build - users found the searching clear and easy to use and were able to filter the results without guidance. Users also enjoyed the clean, simple design. 
+User research revealed there was some confusion around the home page and landing page, so we consolidated these two pages into one and refactored our wireframe. 
+While users were really keen on the growing conditions feature, our own research into available APIs revealed that this wasn't going to be possible for us to build as an MVP. 
+
+### Requirement analysis 
+### How will you ensure your project is accessible to as many users as possible?
+As it is a web app it should be accessible to those with internet access. We will run lighthouse reports to ensure that we are creating an accessible app and run accessibility checks on any CSS libraries used.
+
+### Are there any legal or regulatory requirements you should consider?
+
+
 Project learnings 
 Did your team work effectively?
 What would you do differently next time?
