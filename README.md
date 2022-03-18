@@ -6,7 +6,7 @@ _Co-authored by [Juliette](https://github.com/julietteorpen), [Milly](https://gi
 
 An e-commerce style site to streamline buying seeds by signposting to sellers.
 
-[Deployed version here!]()
+[Deployed version here!](https://lusan-5ufyz0yfk-lusan.vercel.app/)
 
 ## Team members
 
