@@ -22,13 +22,13 @@ a {
   box-sizing: border-box;
 }
 
-button {
-  background-color: var(--light-color);
-  border: var(--dark-color);
-  color: var(--dark-color);
+.box {
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid black;
+}
 
-  :hover {
-    background-color: var(--dark-color);
-    color: var(--light-color);
-  }
+.icon {
+  height: 1.8rem;
+  width: 1.8rem;
 }
