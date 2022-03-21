@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.box {
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid black;
+}
