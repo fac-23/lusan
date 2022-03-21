@@ -7,7 +7,7 @@ export default function SearchBar() {
   return (
     <div className="box">
       <input type="text" Enter a crop name />
-      <FontAwesomeIcon icon={faSearch} />
+      <FontAwesomeIcon className="icon" icon={faSearch} />
     </div>
   );
 }
