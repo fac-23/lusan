@@ -1,4 +1,4 @@
-# [Founders and Coders](https://www.foundersandcoders.com/) (appenticeship)
+# [Founders and Coders](https://www.foundersandcoders.com/) (apprenticeship)
 
 ## Lusan 🌻
 
@@ -36,7 +36,7 @@ An e-commerce style site to streamline buying seeds by signposting to sellers.
 
 ## Coauthoring: 👯‍♀️
 
-- `Co-authored-by: Miah <78933903+miahbates@users.noreply.github.com>`
-- `Co-authored-by: Milly <62570785+millipede-cpu@users.noreply.github.com>`
-- `Co-authored-by: Juliette <53294140+julietteorpen@users.noreply.github.com>`
-- `Co-authored-by: Orian <77785778+OrianP@users.noreply.github.com>`
+Co-authored-by: Miah <78933903+miahbates@users.noreply.github.com>
+Co-authored-by: Milly <62570785+millipede-cpu@users.noreply.github.com>
+Co-authored-by: Juliette <53294140+julietteorpen@users.noreply.github.com>
+Co-authored-by: Orian <77785778+OrianP@users.noreply.github.com>
