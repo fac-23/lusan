@@ -5,17 +5,16 @@ import IntroLusan from "../components/introLusan";
 import GridGallery from "../components/gridGallery";
 import StyledButton from "../components/styled-components/StyledButton";
 import Layout from "../components/layout";
+
 import StyledLink from "../components/styled-components/StyledLink";
 
 export default function Home() {
   return (
     <div>
-      <Layout>
-        <IntroLusan></IntroLusan>
-        <GridGallery></GridGallery>
-        <StyledButton>Browse All</StyledButton>
-        <StyledLink>Link</StyledLink>
-      </Layout>
+      <IntroLusan></IntroLusan>
+      <GridGallery></GridGallery>
+      <StyledButton>Browse All</StyledButton>
+      <StyledLink>Link</StyledLink>
     </div>
   );
 }
